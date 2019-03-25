@@ -1,0 +1,24 @@
+---
+layout: post
+title: "Zcash"
+date: "2016-10-25"
+---
+
+Getting very excited about the launch of Zcash on the 28th.
+
+Quite some hype about this, but not as much as around Ethereum.
+
+But given the state of the market, I expect a good bit of interest. No actual coins exist right now. There is a futures market at bitmex.com, as of this writing trading at .22 BTC.
+
+Some banter about the future of Zcash, that its easy to form, Bitcoin could just add the code, Ethereum could do the same. My personal impression is cryptography is hard. Zcash implements zk-snarks (don’t ask). Four of their contributors are some of the best minds in this field.
+
+The implementation of any cryptography is where the hard part is, my personal opinion is that this the best team right now.
+
+Right on to mining: They are using an Asic resistant, memory hard algorithm called eqihash. It’s meant to favour CPUs over GPUs but at the moment GPUs seem to be about 4x faster. Of course that ignores electricity and capital costs. Mining will have a slow start, ramping up over 20 000 blocks, basically 34 days, to the full block reward of 12.5 ZEC.
+
+So in summary there is no way to get ZEC without mining it, but after the launch, it should start trading on Exchanges.
+
+Given that the supply is likely to be low, Shapeshift (shapeshift.io) will probably be the easiest way to get hold of some.
+
+
+
