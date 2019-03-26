@@ -26,7 +26,7 @@ Then yesterday, 4 November this was released: https://github.com/mbevand/silenta
 
 At the start, trading in Zcash was chaotic, 3300 BTC per 1 ZEC. There is a trading strategy for this its called, painting the tape, basically you trade with yourself or a trusted counterparty to create the illusion of liquidity and of price, to sucker people into trading. MtGox did it with BTC and someone did it with ZEC. Too my mind ZEC is not worth more than $200: At the moment its $500. But at $200 I am a buyer and a holder.
 
-Another issue is that, a 20% payment on each block mined, for the next four years, goes to the founders. So instead of 12.5 ZEC (after the slow start of a month), a miner gets 10 ZEC and the founders get 2.5 ZEC. Over 21 million ZEC the founders reward comes to 10%. https://decentralize.today/zcash-miners-stop-paying-20-genius-tax-486d9f40884f#.ial784k5
+Another issue is that, a 20% payment on each block mined, for the next four years, goes to the founders. So instead of 12.5 ZEC (after the slow start of a month), a miner gets 10 ZEC and the founders get 2.5 ZEC. Over 21 million ZEC the founders reward comes to 10%. <a href="https://decentralize.today/zcash-miners-stop-paying-20-genius-tax-486d9f40884f#.ial784k5">zcash-miners-stop-paying-20-genius-tax</a>
 
 At 20%, the initial reward is too high. We need to be very careful with Zcash, the use for crime is obvious, its already attracting dodgy operators. There are fake wallets that steal your Ether and BTC if you download them. https://forum.z.cash/t/best-gpu-for-zcash/4714 (scroll down to post 5).
 
