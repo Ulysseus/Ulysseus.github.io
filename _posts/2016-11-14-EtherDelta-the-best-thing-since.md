@@ -2,7 +2,7 @@ EtherDelta the best thing since …
 
 Okay so here’s the deal EtherDelta is a smart contract, that allows you trade with others for Tokens issued on the Ethereunm network. So its P2P, decentralized needs no ID or sign up. Since you never send your funds to a central party, they cant get frozen or hacked.
 
-So how to use it, you can either download the Chrome extension MetaMask and install it in Chrome, you get nice Fox that follows your mouse around in the top righthand corner of the browser. <a href="https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?utm_source=chrome-app-launcher-info-dialog">metamask</a>.
+So how to use it, you can either download the Chrome extension MetaMask and install it in Chrome, you get nice Fox that follows your mouse around in the top righthand corner of the browser. <a href="https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?utm_source=chrome-app-launcher-info-dialog">Chrome webstore metamask</a>.
 
 Or download and install the Mist browser.
 
@@ -30,19 +30,19 @@ Now here comes the hard part. To actually trade you need to unlock the account, 
 
 To do this open a terminal in ubuntu type
 
-<code>cd ~/.config/Mist/binaries/Geth/unpacked</code>
+`cd ~/.config/Mist/binaries/Geth/unpacked
 
 Then type 
-<code>geth attach</code>
+`geth attach
 
 You should get a > prompt. You are now in geth console mode.
 
 Now type 
-<code>personal.unlockAccount(“0xYour Address here”)</code>
+`personal.unlockAccount(“0xYour Address here”)
 
 It will respond with Passphrase: type it in. It should respond with true.
 
-Then type exit.
+Then type `exit.
 
 If you go back to Mist you will be able to trade.
 
