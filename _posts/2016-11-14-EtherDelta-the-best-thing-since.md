@@ -34,16 +34,23 @@ To do this open a terminal in ubuntu type
 cd ~/.config/Mist/binaries/Geth/unpacked
 ```
 Then type 
-`geth attach`
+```
+geth attach
+```
 
 You should get a > prompt. You are now in geth console mode.
 
 Now type 
-`personal.unlockAccount(“0xYour Address here”)
+```
+personal.unlockAccount(“0xYour Address here”)
+```
 
 It will respond with Passphrase: type it in. It should respond with true.
 
-Then type `exit.
+Then type 
+```
+exit
+```
 
 If you go back to Mist you will be able to trade.
 
