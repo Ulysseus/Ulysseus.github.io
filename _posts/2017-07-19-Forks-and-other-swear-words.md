@@ -1,0 +1,32 @@
+Forks and other swear words
+
+So, having lived through a huge crash in crypto prices, we seem to be getting to the core of the problem, the pending fork on 1 August 2017.
+
+Let’s take a step back, Bitcoin does not have accounts, it has unspent transaction outputs or UTXOs. A person who owns bitcoin must be able to establish that they control a private key that is related to the “address” of the UTXO. The complete set of UTXOs is needed together with the blockchain to verify that a particular set of UTXOs is valid. Fees in Bitcoin are not related to the size of the transaction, but to the number of UTXOs consumed and produced by the transaction. For the past few weeks the <a href="https://blockchain.info/charts/utxo-count"> UTXOs set</a> seems to have reached an equilibrium, and as expected fees have come down.
+
+A proposal to change the way transactions are signed in the Bitcoin protocol called segregated witness was proposed. It has been coded and extensively tested; it is also running successfully on the Litecoin network. Because of the different manner that segregated witness signs transactions, means that the transactions take less space, which results in more transactions per block, thus in effect increasing the block size without increasing it. It’s backwards compatible: if you don’t update your node or wallet it will still work as before. It also solves a problem called transaction malleability. Consider if you write a check, someone comes and inserts an extra zero in the amount field: that’s transaction malleability. I am not suggesting that Bitcoin has a fraud problem but transactions in Bitcoin can be changed without it triggering an error; although as I understand it there is no benefit to doing so. A consequence of transaction malleability is that, off chain, so called “lightning” networks don’t work.
+
+Consider for a moment running a tab at a bar; you give the bartender your credit card, you order drinks for the evening, at the end the bartender hands you the tab, you check and add a tip and they process the transaction once on your credit card. Lightning networks work in a similar manner except that they can be bi-directional. You can imagine the strain that will be taken off the network if lots of transactions are agreed to by two or more parties off chain and the final result is sent to the blockchain for record.
+
+Segregated witness solves transaction malleability and so allows for lightning networks. CoinJoin is a protocol to increase privacy in Bitcoin. If you think privacy is not an issue because of the “I have done nothing wrong” argument then consider the following: you sell your car for cash or a electronic funds deposit into your bank account and a few days later a nice looking person arrives at your doorstep and informs you that the cash or deposit was the proceeds of a crime, as such the money is forfeit. Oh… and by the way, while they were arresting the criminal, your car was damaged beyond repair. If Bitcoins can be traced, it damages their fungibility, and that means you can no longer trust people you do not intimately know. This is not just a problem for Bitcoin, it’s a problem for any currency; if you taint the currency with its use, you are damaging your economy. Segregated witness increases the privacy of Bitcoin transactions because it allows for different signature types which make protocols like CoinJoin work better.
+
+Segregated witness was supposed to activate via a BIP9 (Bitcoin Improvement Proposal 9): basically if 95% of the hash power in the network signals by changing the first bit of the version number of each block they mine then the segrated witness code starts running and is locked in.
+
+Now for some reason, that seems to make no sense. A large number of mining pools refuse to support segregated witness, they have proposed alternatives like Bitcoin Unlimited and now Bitcoin ABC. The latest proposal is segregated witness 2x (segwit2x). Basically segregated witness locks in now and in 3 months the block size is increased to 2Mb. This is known as the New York agreement. The agreement is odd because it has a closed mailing list, a closed list of developers, the code has not been throughly tested. All of these things should make you shudder and shake your head.
+
+Just to add to the FUD there is a BIP148 which says it will not accept any blocks from nodes not running segregated witness. This called the UASF or User activated soft fork. Due date 1 August 2017. How has the opposing side responded? By saying if BIP148 is activated they will fork the network and run BitcoinABC.
+
+Okay a quick aside: two maniacs are playing chicken by driving their cars towards a cliff. The one, let’s call him Pietro, rips the steering wheel off and shows it to his competitor Don. He then throws it out the window. This is what is called a credible threat, Pieiro is signaling that he’s crazy and even if he wants to he can’t swerve.
+
+I have seen some argument that BIP148 is a credible threat to basically burn Bitcoin down if the miners take control. I am very sceptical of BitcoinABC given all the basic bugs that <a href="https://eprint.iacr.org/2017/686.pdf">Bitcoin Unlimited</a> has suffered.
+
+So a new BIP has hit the scene BIP91. This one says signal on bit number four if you want segwit2x if 80% of the hash power votes for it locks in segregated witness now and the 2mb block sizes in November some time.
+
+People are interpreting this as a good solution because it saves face all round. Its weird to me because, what if in 3 months the block size has not increased. At the moment <a href="https://coin.dance/blocks#blockDetails">the miners are signalling</a> their intention to support this route, notice their intent not actual “the code is law” signalling its just “intent”.
+
+In short, the crash seems to be around this, to fork or not to fork issue. For me its easy; segregated witness 2x is an attempt by unscrupulous people to take over Bitcoin, for me personally I am willing to see Bitcoin fail completely, before I support them. I will personally lose a significant amount of money but nowhere near as much as they will. The world is full of such people especially where there is lot of money to be made, Bitcoin and all crypto-currencies need to be able to survive their antics.
+
+If not then Bitcoin must fail.
+
+<a href="https://en.wikipedia.org/wiki/Friedrich_Nietzsche">“That which does not kill me, makes me stronger”</a>
+
