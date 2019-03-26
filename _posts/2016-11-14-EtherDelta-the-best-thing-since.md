@@ -30,8 +30,9 @@ Now here comes the hard part. To actually trade you need to unlock the account, 
 
 To do this open a terminal in ubuntu type
 
-`cd ~/.config/Mist/binaries/Geth/unpacked
-
+```
+cd ~/.config/Mist/binaries/Geth/unpacked
+```
 Then type 
 `geth attach
 
