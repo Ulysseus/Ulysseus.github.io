@@ -22,7 +22,7 @@ So the launch on the 28th went off without mishap. Except that mining was chaoti
 
 Is coinsforall.io legit?
 He changed the minimum payout to 0.005. I think he said he's doing them manually.forum.z.cash
-Then yesterday, 4 November this was released: <a href="https://github.com/mbevand/silentarmy">silentarmy</a> far and away the best miner: It’s free, compiles fast and works on any pool. I will definitely be donating to Mark <a href=" http://www.zorinaq.com"zorinaq</a>. Right now mining Zcash is more profitable than mining Ether. Ethereum’s difficulty has halved since Zcash started.
+Then yesterday, 4 November this was released: <a href="https://github.com/mbevand/silentarmy">silentarmy</a> far and away the best miner: It’s free, compiles fast and works on any pool. I will definitely be donating to Mark <a href=" http://www.zorinaq.com">zorinaq</a>. Right now mining Zcash is more profitable than mining Ether. Ethereum’s difficulty has halved since Zcash started.
 
 At the start, trading in Zcash was chaotic, 3300 BTC per 1 ZEC. There is a trading strategy for this its called, painting the tape, basically you trade with yourself or a trusted counterparty to create the illusion of liquidity and of price, to sucker people into trading. MtGox did it with BTC and someone did it with ZEC. Too my mind ZEC is not worth more than $200: At the moment its $500. But at $200 I am a buyer and a holder.
 
