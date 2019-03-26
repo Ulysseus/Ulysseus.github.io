@@ -34,7 +34,7 @@ To do this open a terminal in ubuntu type
 cd ~/.config/Mist/binaries/Geth/unpacked
 ```
 Then type 
-`geth attach
+`geth attach`
 
 You should get a > prompt. You are now in geth console mode.
 
