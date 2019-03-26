@@ -2,7 +2,7 @@ EtherDelta the best thing since …
 
 Okay so here’s the deal EtherDelta is a smart contract, that allows you trade with others for Tokens issued on the Ethereunm network. So its P2P, decentralized needs no ID or sign up. Since you never send your funds to a central party, they cant get frozen or hacked.
 
-So how to use it, you can either download the Chrome extension MetaMask and install it in Chrome, you get nice Fox that follows your mouse around in the top righthand corner of the browser. https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?utm_source=chrome-app-launcher-info-dialog.
+So how to use it, you can either download the Chrome extension MetaMask and install it in Chrome, you get nice Fox that follows your mouse around in the top righthand corner of the browser. <a href="https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?utm_source=chrome-app-launcher-info-dialog">metamask</a>.
 
 Or download and install the Mist browser.
 
@@ -32,11 +32,13 @@ To do this open a terminal in ubuntu type
 
 <code>cd ~/.config/Mist/binaries/Geth/unpacked</code>
 
-Then type geth attach
+Then type 
+<code>geth attach</code>
 
 You should get a > prompt. You are now in geth console mode.
 
-Now type <code>personal.unlockAccount(“0xYour Address here”)</code>
+Now type 
+<code>personal.unlockAccount(“0xYour Address here”)</code>
 
 It will respond with Passphrase: type it in. It should respond with true.
 
