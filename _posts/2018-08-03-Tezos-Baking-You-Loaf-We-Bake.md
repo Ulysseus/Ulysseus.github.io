@@ -1,6 +1,6 @@
 Tezos Baking: You loaf/We bake
 
-[Test](../_images/1*hy6pwy5Afo8qAajzANF0oA.jpeg)
+![Test](/_images/1*hy6pwy5Afo8qAajzANF0oA.jpeg?raw=true)
 
 
 [Delegation Service](https://youloafwebake.io/)
@@ -11,7 +11,7 @@ The documentation is poor, not many examples of commands etc etc, but some persi
 
 I tried baking on the Zeronet so that I was ready for the Betanet, I missed baking on cycle 7 because I was so afraid of stuffing up the claiming of the Tezzies. I did make cycle 8 though.
 
-Tezos has a interesting PoS mechanism. I will not go into details but you can only bake/mine a block assuming you have a roll. A roll is 10 000 Tezzies. If you have less you cannot bake, but you can delegate your Tezzies to someone else; who when they have a round 10 000 can bake. There is literally no risk in delegating, the Baker never gets to see the delegator’s private keys. The Baker posts the bond for the staking to be able to bake. In the event that the Baker is slashed, the person delegating to them loses nothing. The only risk to the person delegating; is that the Baker does not pay out the rewards. Here’s where a transparent immutabule blockchain comes into its own. You can check on a blockchain explorer like tzscan.io, you can see exactly how much the Baker you delegated to has earned. There are three levels of rewards:
+Tezos has a interesting PoS mechanism. I will not go into details but you can only bake/mine a block assuming you have a roll. A roll is 10 000 Tezzies. If you have less you cannot bake, but you can delegate your Tezzies to someone else; who when they have a round 10 000 can bake. There is literally no risk in delegating, the Baker never gets to see the delegator’s private keys. The Baker posts the bond for the staking to be able to bake. In the event that the Baker is slashed, the person delegating to them loses nothing. The only risk to the person delegating; is that the Baker does not pay out the rewards. Here’s where a transparent immutabule blockchain comes into its own. You can check on a blockchain explorer like [tzscan.io](http://tzscan.io/tz1eZwq8b5cvE2bPKokatLkVMzkxz24z3Don?default=baking), you can see exactly how much the Baker you delegated to has earned. There are three levels of rewards:
 
 Baking rewards 16tz per block
 
@@ -31,8 +31,8 @@ The cost of the node: a machine that is always on; a bit of work to get it setup
 
 Now if you have less than a roll you should delegate it to earn a reward till you get to 10 000tz.
 
-Now here is the plug I am running a delegation service, youloafwebake.io.
+Now here is the plug I am running a delegation service, [youloafwebake.io](http://youloafwebake.io/).
 
-Join us at Telegram.
+Join us at [Telegram](https://t.me/joinchat/HSfKDw3ldwbCVihlzmZR_g).
 
 Check it out it’s had 100% uptime, presently it’s got a 0% fee.
