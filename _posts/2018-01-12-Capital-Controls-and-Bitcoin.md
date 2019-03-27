@@ -1,4 +1,4 @@
-Capital controls and Bitcoin.
+# Capital controls and Bitcoin.
 
 This week we woke to news that [South Korea](https://www.cnbc.com/2018/01/10/south-korea-official-reportedly-readying-bill-to-ban-all-cryptocurrency-trading.html) was going to ban Bitcoin and Ethereum. We have had similar scares out of China and India. The three countries are as different as you can get, yet they all share one thing “Capital Controls”.
 
@@ -20,6 +20,7 @@ In most emerging markets, one thing is a near certainty, your local currency dep
 * How do you know it’s gold and not an alloy or gold plated tungsten?
 * Transportation: It’s heavy and dense.
 * Fungibility: How do you spend a little in the case of an emergency? Small denomination coins tend to trade at a “jewelry” to the gold price.
+
 Of course there are ways of dealing with all of these difficulties.
 
 Consider Bitcoin
@@ -28,7 +29,8 @@ Consider Bitcoin
 * It’s not duplicatable, that’s the whole point of PoW.
 * Transportation: Let’s be honest, come on!!
 * It’s divisible into units of 100 million.
-* What’s the downside, will 1 BTC be worth anything in 1000 years, who knows? But I suppose most people could care less about 1000 years from now.
+
+What’s the downside, will 1 BTC be worth anything in 1000 years, who knows? But I suppose most people could care less about 1000 years from now.
 
 If you take the BTC price in dollars and convert it into a Rand price and then compare this price to the price of a Bitcoin in South Africa in Rands you discover that it can be trading at a premium of up to 25% in South Africa. (So back to my lesson you trade the number on the screen!) Why does BTC trade at such a huge premium? Because it’s a hedge that ordinary people can access, and also because it easily evades Capital Controls. It doesn’t involve opening foreign bank accounts, or storing large amounts of gold or storing large amounts of foreign cash where the risk of forgeries is large. An issue with storing actual cash is demonetization. In 2016 [India unilaterally](https://en.wikipedia.org/wiki/2016_Indian_banknote_demonetisation), out of the blue, just declared certain bank notes would no longer be legal tender. If a person owns Bitcoin they can plausibly claim they spent it, lost the private keys, or they could successfully argue that no money actually ever left South Africa, so they are not in contravention of Foreign Exchange Regulations. These advantages are not lost on the average person so there is an almost insatiable bid under Bitcoin and Ether. I should mention that [Monero](https://getmonero.org/) is lead by a South African Riccardo “fluffypony” Spagni.
 
