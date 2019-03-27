@@ -1,6 +1,7 @@
 Tezos Baking: You loaf/We bake
 
-[Test](/Ulysseus.github.io/_posts/BTC cumulative Distribution.png cumulative Distribution.png)
+[Test](/_images/1*hy6pwy5Afo8qAajzANF0oA.jpeg)
+
 
 [Delegation Service](https://youloafwebake.io/)
 
