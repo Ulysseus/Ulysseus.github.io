@@ -1,2 +1,4 @@
 name: Don Travlos
 markdown: kramdown
+plugins:
+  - jekyll-sitemap
