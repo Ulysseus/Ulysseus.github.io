@@ -1,6 +1,6 @@
 Tezos Baking: You loaf/We bake
 
-![Test](../_images/1*hy6pwy5Afo8qAajzANF0oA.jpeg?raw=true)
+![Test](/Ulysseus.github.io/_images/1*hy6pwy5Afo8qAajzANF0oA.jpegraw=true)
 
 
 [Delegation Service](https://youloafwebake.io/)
